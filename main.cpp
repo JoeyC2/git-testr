@@ -13,9 +13,9 @@
   int var2 = 0;
   int var1 = 0;
   cout<<fixed<<setprecision(2);
-  cout<<"enter the numbers to be averaged"<<endl;
+  cout<<"Enter the numbers to be averaged"<<endl;
   cin>>var1;
-  cout<<endl<<"enter the second number"<<endl;
+  cout<<endl<<"Enter the second number"<<endl;
   cin>>var2;
   cout<<endl;
   sum(var2, var1);
